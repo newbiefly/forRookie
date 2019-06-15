@@ -34,7 +34,8 @@ emmmmm，那就从头像开始吧，项目创建的比较伧俗，后面会整�
 最后，贴上我的公众号【菜鸟要飞】二维码，后续会不断更新，有兴趣的可以添加
 
 
-！[image]（ https://upload-images.jianshu.io/upload_images/13820096-ee1b21d0f767039c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/258/format/webp）
+![image](https://upload-images.jianshu.io/upload_images/13820096-ee1b21d0f767039c.png)
+
 
 
 
