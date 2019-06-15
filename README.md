@@ -13,20 +13,15 @@ emmmmm，那就从头像开始吧，项目创建的比较伧俗，后面会整�
 
 不得不佩服我的想象力和模仿能力。
 
-走一波
+走一波，XX，我们走  系列
 
 ![image](https://upload-images.jianshu.io/upload_images/13820096-28071ae4f1d4ab6c.jpeg)
+![image](https://upload-images.jianshu.io/upload_images/13820096-03502b003bd183c7.jpeg)
+![image](https://upload-images.jianshu.io/upload_images/13820096-48c8cae99c36a866.jpeg)
+![image](https://upload-images.jianshu.io/upload_images/13820096-3863554114790bc1.jpeg)
+![image](https://upload-images.jianshu.io/upload_images/13820096-17119deb59318348.jpeg)
+![image](https://upload-images.jianshu.io/upload_images/13820096-ed84e637305048de.jpeg)
 
-
-！[image]（https://upload-images.jianshu.io/upload_images/13820096-17119deb59318348.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp ）
-
-！[image]（ https://upload-images.jianshu.io/upload_images/13820096-3863554114790bc1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/800/format/webp ）
-
-！[image]（ https://upload-images.jianshu.io/upload_images/13820096-03502b003bd183c7.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/990/format/webp ）
-
-！[image]（https://upload-images.jianshu.io/upload_images/13820096-48c8cae99c36a866.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp）
-
-！[image]（ https://upload-images.jianshu.io/upload_images/13820096-3863554114790bc1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/800/format/webp）
 
 这个，都说了是 Demo 版，所以很随意。主要是用来练手的。不知道大家喜不喜欢。
 
